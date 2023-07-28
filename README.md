@@ -8,6 +8,7 @@
 
 <br>
 
+- 21 years old
 - A passionate developer
 - Currently learning web development
 - Personal website (coming soon)
