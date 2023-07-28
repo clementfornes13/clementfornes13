@@ -11,7 +11,7 @@
 - A passionate developer
 - Currently learning web development
 - Personal website (coming soon)
-- I’m currently open for an internship, this is [my resume](https://github.com/clementfornes13/clementfornes13/blob/main/CV%20FORNES%20CLEMENT%20(1).pdf) (in french)
+- I’m currently open for an internship, this is [my resume](https://github.com/clementfornes13/clementfornes13/blob/main/Resume.pdf)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
