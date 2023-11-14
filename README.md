@@ -12,7 +12,7 @@
 - 👨‍💻 A passionate developer
 - 🌱 Currently learning web development
 - 🌐 Personal website (coming soon)
-- 📄 I’m currently open for an internship in Canada or the USA, this is [my resume](https://github.com/clementfornes13/clementfornes13/blob/main/Resume.pdf)
+- 📄 I’m currently open for an internship in Canada or the USA, this is [my resume](https://github.com/clementfornes13/clementfornes13/blob/main/RESUME%20FORNES%20CLEMENT.pdf)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
