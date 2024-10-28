@@ -11,7 +11,7 @@
 - 🎂 22 years old
 - 👨‍💻 A passionate developer
 - 🌱 Currently learning web development
-- 🌐 Personal website (coming soon)
+- 🌐 [Personal website](https://clementfornes.com)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
